@@ -11,7 +11,7 @@ export function CreateInvoice() {
       <PlusIcon className="h-5 md:ml-4" />
     </Link>
   );
-} v
+}
 
 export function UpdateInvoice({ id }: { id: string }) {
   return (
